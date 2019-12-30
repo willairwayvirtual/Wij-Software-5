@@ -92,9 +92,18 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="get a quote.aspx" />
     <Content Include="Web.config" />
+    <Content Include="Wij Software .aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="get a quote.aspx.designer.vb">
+      <DependentUpon>get a quote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="get a quote.aspx.vb">
+      <DependentUpon>get a quote.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -113,6 +122,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Wij Software .aspx.designer.vb">
+      <DependentUpon>Wij Software .aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Wij Software .aspx.vb">
+      <DependentUpon>Wij Software .aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
