@@ -22,10 +22,14 @@
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
 	}
+        .auto-style13 {
+            font-size: xx-large;
+        }
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
+        <div class="auto-style1">
         <div class="auto-style1">
         <div class="auto-style1">
             <span class="auto-style12"><strong>Welcome to <u><span style="font-size:18.0pt;line-height:107%;
@@ -56,7 +60,9 @@ Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;
 mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
 mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">and are staffed entirely by volunteers. and are staffed entirely by volunteers. </span></span></span>
         </div>
-            <asp:Button ID="Button1" runat="server" Text="get a quote" Width="752px" />
+            <asp:Button ID="Button1" runat="server" Text="get a quote" Width="752px" CssClass="auto-style13" />
+        </div>
+            <asp:Button ID="Button2" runat="server" CssClass="auto-style13" Text="we would a like any volunteers to help with progmaming" Width="1222px" />
         </div>
     </form>
 </body>

@@ -92,11 +92,19 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="careers.aspx" />
     <Content Include="get a quote.aspx" />
     <Content Include="Web.config" />
     <Content Include="Wij Software .aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="careers.aspx.designer.vb">
+      <DependentUpon>careers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="careers.aspx.vb">
+      <DependentUpon>careers.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="get a quote.aspx.designer.vb">
       <DependentUpon>get a quote.aspx</DependentUpon>
     </Compile>
