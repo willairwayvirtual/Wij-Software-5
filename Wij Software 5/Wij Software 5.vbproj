@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="careers.aspx" />
+    <Content Include="front-end-developer and back-end-developeraspx.aspx" />
     <Content Include="get a quote.aspx" />
     <Content Include="Web.config" />
     <Content Include="Wij Software .aspx" />
@@ -103,6 +104,13 @@
     </Compile>
     <Compile Include="careers.aspx.vb">
       <DependentUpon>careers.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="front-end-developer and back-end-developeraspx.aspx.designer.vb">
+      <DependentUpon>front-end-developer and back-end-developeraspx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="front-end-developer and back-end-developeraspx.aspx.vb">
+      <DependentUpon>front-end-developer and back-end-developeraspx.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="get a quote.aspx.designer.vb">
