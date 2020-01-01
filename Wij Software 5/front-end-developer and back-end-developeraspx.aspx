@@ -100,7 +100,7 @@ mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA" clas
                 <li>Docker / Vagrant</li>
                 <li>Electron experience</li>
                 <li>Security knowledge/awareness</li>
-                <li>Knowledge of Web fundamentals like HTM asp.net 4.6.1</li>
+                <li>Knowledge of Web fundamentals like HTM AND asp.net 4.6.1</li>
                 <li>Knowledge of good software design principles (SOLID)</li>
                 <li>Knowledge &amp; experience using source control (Git/GitHub/gitlab</li>
                 <li>Agile Methodologies</li>
