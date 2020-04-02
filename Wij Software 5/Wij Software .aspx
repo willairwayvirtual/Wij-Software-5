@@ -25,6 +25,20 @@
         .auto-style13 {
             font-size: xx-large;
         }
+        .auto-style14 {
+            font-size: large;
+        }
+        .auto-style15 {
+            font-size: large;
+            text-decoration: underline;
+        }
+        .auto-style16 {
+            text-decoration: underline;
+        }
+        .auto-style17 {
+            font-weight: bold;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -42,10 +56,9 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm;
 mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Software </span></u>&nbsp;<br />
             </strong></span>
             <p class="MsoNormal">
-                Who we are? We are<b> </b>Wij <a name="_Hlk28523209"><span style="border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-padding:0cm">Software and web and game </span></a><span style="border:none windowtext 1.0pt;
-mso-border-alt:none windowtext 0cm;padding:0cm">development </span>contractor<span style="border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-padding:0cm"><o:p></o:p></span></p>
+                <span class="auto-style14"><span class="auto-style16">Who we are? We are</span><span class="auto-style17"> </span><span class="auto-style16">Wij </span> <a name="_Hlk28523209"><span style="border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
+padding:0cm" class="auto-style16">Software and web and game </span></a></span><span style="border:none windowtext 1.0pt;
+mso-border-alt:none windowtext 0cm;padding:0cm"><span class="auto-style15">developmen</span></span> <u><span class="auto-style14" style="line-height: 107%; font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-font-kerning: 12.0pt; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">company </span></u></p>
             <span style="font-size:16.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
