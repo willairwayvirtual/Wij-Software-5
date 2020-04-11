@@ -28,16 +28,16 @@
         .auto-style14 {
             font-size: large;
         }
-        .auto-style15 {
-            font-size: large;
-            text-decoration: underline;
-        }
         .auto-style16 {
             text-decoration: underline;
+            font-size: medium;
         }
         .auto-style17 {
             font-weight: bold;
             text-decoration: underline;
+        }
+        .auto-style18 {
+            font-size: medium;
         }
     </style>
 </head>
@@ -46,19 +46,23 @@
         <div class="auto-style1">
         <div class="auto-style1">
         <div class="auto-style1">
-            <span class="auto-style12"><strong>Welcome to <u><span style="font-size:18.0pt;line-height:107%;
+            <span class="auto-style12"><strong>Welcome to<u><span style="font-size:18.0pt;line-height:107%;
 font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;
 mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
 mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Wij </span><span style="font-size:18.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
 mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;color:black;
 border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm;
-mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Software </span></u>&nbsp;<br />
+mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Software and web and game development</span><span style="font-size:18.0pt;line-height:
+107%;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+color:black;mso-themecolor:text1;mso-font-kerning:12.0pt;mso-ansi-language:
+EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"> company </span></u><br />
             </strong></span>
             <p class="MsoNormal">
-                <span class="auto-style14"><span class="auto-style16">Who we are? We are</span><span class="auto-style17"> </span><span class="auto-style16">Wij </span> <a name="_Hlk28523209"><span style="border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-padding:0cm" class="auto-style16">Software and web and game </span></a></span><span style="border:none windowtext 1.0pt;
-mso-border-alt:none windowtext 0cm;padding:0cm"><span class="auto-style15">developmen</span></span> <u><span class="auto-style14" style="line-height: 107%; font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-font-kerning: 12.0pt; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">company </span></u></p>
+                <span class="auto-style16">Who we are? We are</span><span class="auto-style14"><span class="auto-style17"> <u><span class="auto-style18" style="line-height: 107%; font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Wij </span><span class="auto-style18" style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0cm; padding: 0cm; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Software and web and game development</span><span class="auto-style18" style="line-height: 107%; font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-font-kerning: 12.0pt; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"> 
+                company </span></u> </span></span></p>
             <span style="font-size:16.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
