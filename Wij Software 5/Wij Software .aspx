@@ -39,6 +39,10 @@
         .auto-style18 {
             font-size: medium;
         }
+        .auto-style19 {
+            font-size: xx-large;
+            color: #FF0000;
+        }
     </style>
 </head>
 <body>
@@ -82,5 +86,7 @@ mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">and 
             <asp:Button ID="Button2" runat="server" CssClass="auto-style13" Text="we would a like any volunteers to help with progmaming" Width="1222px" />
         </div>
     </form>
+    <p class="auto-style19">
+        do coronavirus alll aer appointment on zoom orMicrosoft Teams</p>
 </body>
 </html>
