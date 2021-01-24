@@ -96,6 +96,9 @@
     <Content Include="front-end-developer and back-end-developeraspx.aspx" />
     <Content Include="get a quote.aspx" />
     <Content Include="Web.config" />
+    <Content Include="web.png" />
+    <Content Include="web3.png" />
+    <Content Include="wed5.png" />
     <Content Include="Wij Software .aspx" />
   </ItemGroup>
   <ItemGroup>
